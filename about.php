@@ -28,6 +28,36 @@
     </div>
   </header>
   <main>
+  <div class="tables">
+            <table style = "margin:50px" border="1">
+                <caption > О компании</caption>
+                <thead>
+                    <tr>
+                        <th>.</th>
+                        <th>.</th>
+                       
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Название компании: Cosmy way</td>
+                        
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                         <td>Главный офис находится в Екатерингбурге</td>
+                        
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Представлено более 1000 товаров</td>
+                        
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </div>
   </main>
   <!-- Footer -->
   <footer class="footer" id="footer">
